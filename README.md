@@ -18,6 +18,8 @@ This guide aims to provide a comprehensive, step-by-step methodology on how to c
 - Visit [https://console.aws.amazon.com/](https://console.aws.amazon.com/)
 - Sign in with your credentials
 
+![Log in to to AWS console with credentials ]()
+
 ### 2. Search and select S3
 
  - Navigate to the search pane and search for **S3**   
