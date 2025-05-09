@@ -97,6 +97,19 @@ This guide aims to provide a comprehensive, step-by-step methodology on how to c
 
 ---
 
+## AWS S3 Documentation
+
+You can read the official documentation here:  
+[Amazon S3 User Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+
+---
+
+## Video Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/tfU0JEZjcsg/0.jpg)](https://www.youtube.com/watch?v=tfU0JEZjcsg)
+
+---
+
 ## Conclusion
 
 You’ve now successfully created an S3 bucket and uploaded a file to it using the AWS Console. You can repeat the process to manage more files or enable advanced settings like permissions and lifecycle rules.
